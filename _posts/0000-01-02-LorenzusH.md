@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+VI Viveri Veniversum Vivus Vici
 Use the left arrow to go back!
